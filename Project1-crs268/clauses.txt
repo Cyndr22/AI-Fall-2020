@@ -1,0 +1,181 @@
+issue computer
+visible yes
+actions yes
+openprograms yes
+1
+issue computer
+visible yes
+actions yes
+openprograms no
+1
+issue computer
+visible yes
+actions no
+slow no
+changedfiles yes
+damage yes
+1
+issue computer
+visible yes
+actions no
+slow no
+changedfiles yes
+damage no
+1
+issue computer
+visible yes
+actions no
+slow no
+changedfiles no
+1
+issue computer
+visible no
+disappear no
+1
+issue computer
+visible yes
+actions yes
+openprograms yes
+1
+issue network
+access yes 
+loadtime yes 
+compass yes
+1
+issue network
+access yes
+loadtime no 
+popup yes 
+people yes 
+1
+issue network
+access yes
+loadtime no 
+popup yes 
+people no
+1
+issue network
+access yes
+loadtime no
+popup no
+1
+issue network
+access no
+networkshow yes
+serviceload yes
+networktype work
+1
+issue network
+access no
+networkshow yes
+serviceload no
+1
+issue network
+access no
+networkshow no
+showbefore yes
+showname yes
+1
+issue network
+access no
+networkshow no
+showbefore no
+1
+attack denial_of_service
+issue network
+access no
+networkshow yes
+serviceload yes
+networktype work
+1
+attack basic
+issue computer
+visible yes
+actions no
+slow no
+changedfiles no
+1
+attack basic
+issue computer
+visible no
+disappear no
+1
+attack basic
+issue network
+access yes
+loadtime no
+popup no
+1
+attack basic
+issue network
+access no
+networkshow yes
+serviceload yes
+network personal
+1
+attack basic
+issue network
+access no
+networkshow no
+showbefore no
+1
+attack malicious_code
+issue computer
+visible yes
+actions yes
+openprograms no
+1
+attack malicious_code
+issue computer
+visible yes
+actions no
+slow no
+changedfiles yes
+damage yes
+1
+attack malicious_code
+issue network
+access yes
+loadtime no
+popup yes
+people no
+1
+attack malicious_code
+issue network
+access no
+networkshow yes
+serviceload no
+1
+attack identity
+issue computer
+visible yes
+actions yes
+openprograms yes
+1
+attack identity
+issue computer
+visible yes
+actions no
+slow no
+changedfiles yes
+damage no
+1
+attack identity
+issue network
+access yes
+loadtime yes
+commonpass yes
+1
+attack identity
+issue network
+access yes
+loadtime no
+popup yes
+people yes
+1
+attack identity
+issue network
+access no
+networkshow yes
+showbefore no
+listshow yes

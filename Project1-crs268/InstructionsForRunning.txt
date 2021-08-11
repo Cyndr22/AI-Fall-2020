@@ -1,0 +1,3 @@
+Run the program
+Answer each question provided in the program output
+Afeter a certain number of questions, a suggestion will be given and the program will stop.
